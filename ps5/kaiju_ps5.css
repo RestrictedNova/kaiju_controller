@@ -5,6 +5,13 @@ body {
     overflow: hidden;
 }
 
+.controller.disconnected {
+    background: url(https://restrictednova.github.io/kaiju_controller/ps5/disconnected.png);
+    width: 794px;
+    height: 639px;
+    margin-left: 0;
+    margin-top: 0;
+}
 .controller.ds4 {
     background: url(https://i.imgur.com/Ixqs5xP.png);
     width: 794px;
