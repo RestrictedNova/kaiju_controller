@@ -21,7 +21,7 @@ body {
 }
 
 .ds4 .stick {
-    background: url(https://philipbry.github.io/3sBwghP.png);
+    background: url(https://restrictednova.github.io/kaiju_controller/sticks.png);
     width: 95px;
     height: 95px;
 }
@@ -91,7 +91,7 @@ body {
 
 .ds4 .back,
 .ds4 .start {
-    background: url(https://philipbry.github.io/PrAfLDQ.png);
+    background: url(https://restrictednova.github.io/kaiju_controller/start.png);
     width: 23px;
     height: 37px;
     margin-top: -8px;
@@ -124,7 +124,7 @@ body {
 }
 
 .ds4 .bumper {
-    background: url(https://philipbry.github.io/wijYAzG.png);
+    background: url(https://restrictednova.github.io/kaiju_controller/bumper.png);
     width: 114px;
     height: 36px;
     opacity: 0;
@@ -141,7 +141,7 @@ body {
 }
 
 .ds4 .trigger {
-    background: url(https://philipbry.github.io/KcAyIZw.png);
+    background: url(https://restrictednova.github.io/kaiju_controller/triggers.png);
     width: 100px;
     height: 97px;
     opacity: 0;
@@ -173,7 +173,7 @@ body {
 }
 
 .ds4 .face {
-    background: url(https://philipbry.github.io/548MWGT.png);
+    background: url(https://restrictednova.github.io/kaiju_controller/dpad.png);
     position: absolute;
 }
 
